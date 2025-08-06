@@ -109,7 +109,7 @@ async def set_log_channel_cmd(client: Client, message: Message):
             await message.reply_text(
                 "❌ Invalid format!\n\n"
                 "Use: /setlog channel_id\n"
-                "Example: /setlog -100123456789"
+                "Example: /setlog -1002295358541"
             )
             return
 
